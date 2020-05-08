@@ -1,2 +1,6 @@
-# makair-casing
-🎛 Container casing design for the MakAir respirator. All mechanical parts and electronics can be fitted there.
+# MakAir Casing
+
+| Version | Last Changelog | Ready? | Live CAD Models |
+| ------- | -------------- | ------ | --------------- |
+| V1 | Initial design & fits | ❌ | [view model](https://a360.co/2JyIU9P)
+| V2 | Update mensurations | ✅ | [view model](https://a360.co/2RlnfGp)
