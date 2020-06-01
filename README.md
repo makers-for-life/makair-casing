@@ -28,7 +28,7 @@ On the side, we are working on an experimental, fully 3D-printable casing. It ha
 
 Multiple of those casings can be stacked on the top of each other, as well as on the sides of each other. This makes shipping of a large number of those ventilators much handier than with previous casing versions, by stacking them in a truck without any extra protections overhead.
 
-The screen is tiled by 45 degrees so that, whichever the height of the table the MakAir lays on, the UI can still be reached. The legacy 4 lines small display was removed from the front side, and sits inside the ventilator unit for debugging purposes, while the 7" touchscreen handles all control tasks — that came previously from hardware buttons.
+The screen is tilted by 45 degrees so that, whichever the height of the table the MakAir lays on, the UI can still be reached. The legacy 4 lines small display was removed from the front side, and sits inside the ventilator unit for debugging purposes, while the 7" color touchscreen handles all control tasks — that came previously from hardware buttons.
 
 <p>
   <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V3/Casing%20(Render%201).png" height="240">
