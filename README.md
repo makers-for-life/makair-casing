@@ -24,7 +24,7 @@
 
 ## 🚀 Experimental Design
 
-On the side, we are working on an experimental, fully 3D-printable casing. It has the benefit of being more user-friendly, as well as much more compact and practical to use and handle (eg. if the MakAir needs to be moved to another room).
+On the side, we are working on an experimental, fully 3D-printable casing. It has the benefit of being more user-friendly, as well as much more compact and practical to use and handle (eg. if the MakAir needs to be moved to another room). **You can [view it in 3D](https://a360.co/2BoKPgj) in your Web browser.**
 
 Multiple of those casings can be stacked on the top of each other, as well as on the sides of each other. This makes shipping of a large number of those ventilators much handier than with previous casing versions, by stacking them in a truck without any extra protections overhead.
 
