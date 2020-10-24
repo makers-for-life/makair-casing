@@ -61,7 +61,9 @@ _Adding to that: adapted stickers should be added on the Electrical Plugs + Air 
 
 #### Validation parts (3D printed)
 
-Pictures of our early FDM & SLA print tests can be found below. Those parts will help validating the experimental design, before proceeding with manufacturing molds.
+Pictures of our early FDM & SLA print tests can be found below. Large parts (casing and stages) are printed using FDM, while smaller parts (adapters et al) are printed using SLA (which is more dimensionally accurate than FDM; though more expensive).
+
+Those parts will help validating the experimental design, before proceeding with manufacturing molds.
 
 <p>
   <img alt="Printed Casing" src="./res/pictures/Experimental/V4/Casing%201.jpg" height="320">
