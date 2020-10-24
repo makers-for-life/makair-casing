@@ -35,6 +35,8 @@ The screen is set on the top, as to save casing space. The legacy 4 lines small 
 
 This design makes mass-manufacturing more convenient, as components are split into 2 stages: pneumatics and electronics. Both stages are then inserted in the molded casing from the bottom, and screwed into place. Maintenance is also easier with this new design, as stages can be unscrewed and slided out of the casing. If a stage cannot be repaired onto place, it can be swapped with a replacement stage in a matter of minutes.
 
+**Note: this design is not ready yet. We are currently testing it and making refinements.**
+
 <p>
   <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%201).png" height="240">
   <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%202).png" height="240">
