@@ -56,3 +56,9 @@ _Adding to that: adapted stickers should be added on the Electrical Plugs + Air 
   <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%207).png" height="280">
   <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%208).png" height="280">
 </p>
+
+### Pictures
+
+<p>
+  <img alt="Small Parts Printed" src="./res/pictures/Experimental/V4/Small%20Parts%201.jpg" height="320">
+</p>
