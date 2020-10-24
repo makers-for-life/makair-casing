@@ -59,6 +59,9 @@ _Adding to that: adapted stickers should be added on the Electrical Plugs + Air 
 
 ### Pictures
 
+Pictures of our early FDM & SLA print tests can be found below. Those parts will help validating the experimental design, before proceeding with manufacturing molds.
+
 <p>
-  <img alt="Small Parts Printed" src="./res/pictures/Experimental/V4/Small%20Parts%201.jpg" height="320">
+  <img alt="Printed Casing" src="./res/pictures/Experimental/V4/Casing%201.jpg" height="320">
+  <img alt="Printed Small Parts" src="./res/pictures/Experimental/V4/Small%20Parts%201.jpg" height="320">
 </p>
