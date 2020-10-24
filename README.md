@@ -11,6 +11,8 @@
 
 ## 🧪 MakAir Cube Experimental Design
 
+![Experimental Casing Header](./res/schemes/Experimental/V4/Casing%20(Header).png)
+
 On the side, we are working on an experimental, fully 3D-printable casing. It has the benefit of being more user-friendly, as well as much more compact and practical to use and handle (eg. if the MakAir needs to be moved to another room). It also has a minimum cubic footprint: `20cm x 20cm x 20cm`, and aims at being lightweight.
 
 **➡️ You can [view it in 3D](https://a360.co/2RHpseW) in your Web browser.**
