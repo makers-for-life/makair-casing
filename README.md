@@ -49,8 +49,8 @@ Note that all parts from this casing were designed to be moldable. A mold is exp
 4. **Air Plug [x1]:** pneumatic input/output connectors, inserted in the casing from the front at the end of the assembly process, screwed to the pnematics stage;
 5. **Electrical Plugs [x1]:** electrical input/output connectors, inserted in the casing from the rear at the end of the assembly process, screwed to the electronics stage;
 6. **Blower Holder [x1]:** holds the blower firmly into place, screwed from the top of the blower, on the pneumatics stage;
-7. **Piping Holder (x3):** holds all flexible pipes and apply a constraint onto them, screwed from the top, on the pneumatics stage;
-8. **Filter Box Top Fit (x2):** the top fit of each of the 2 filter boxes, holds the disposable HEPA filter into place;
+7. **Piping Holder [x3]:** holds all flexible pipes and apply a constraint onto them, screwed from the top, on the pneumatics stage;
+8. **Filter Box Top Fit [x2]:** the top fit of each of the 2 filter boxes, holds the disposable HEPA filter into place;
 9. **Filter Box Casing (Exhaust Out) [x1]:** the exhaust output line filter box casing, screwed to the pneumatics stage (filters air coming out from the patient lungs);
 10. **Filter Box Casing (Blower In) [x1]:** the blower input line filter box casing, screwed to the pneumatics stage (filters air coming in to the blower, ultimately to the patient lungs);
 
