@@ -9,21 +9,7 @@
 | V3 | Experimental casing (canceled) | ❌ | [view model](https://a360.co/2BoKPgj)
 | V4 | MakAir Cube casing w/ a smaller footprint | ⏳ | [view model](https://a360.co/2RHpseW)
 
-## Renders
-
-### The "Casing"
-
-<p>
-  <img alt="Casing Render" src="./res/schemes/V2/Casing%20(Render%201).png" height="240">
-  <img alt="Casing Render" src="./res/schemes/V2/Casing%20(Render%202).png" height="240">
-  <img alt="Casing Render" src="./res/schemes/V2/Casing%20(Render%204).png" height="240">
-  <img alt="Casing Render" src="./res/schemes/V2/Casing%20(Render%206).png" height="240">
-  <img alt="Casing Render" src="./res/schemes/V2/Casing%20(Render%207).png" height="240">
-  <img alt="Casing Render" src="./res/schemes/V2/Casing%20(Render%208).png" height="240">
-  <img alt="Casing Assembly" src="./res/schemes/V2/Casing%20(Assembly%201).jpg" height="240">
-</p>
-
-## 📦 MakAir Cube Experimental Design
+## 🧪 MakAir Cube Experimental Design
 
 On the side, we are working on an experimental, fully 3D-printable casing. It has the benefit of being more user-friendly, as well as much more compact and practical to use and handle (eg. if the MakAir needs to be moved to another room). It also has a minimum cubic footprint: 20cm x 20cm x 20cm, and aims at being lightweight.
 
