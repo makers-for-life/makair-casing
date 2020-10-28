@@ -68,4 +68,5 @@ _Those parts will help validating the experimental design, before proceeding wit
 <p>
   <img alt="Printed Casing" src="./res/pictures/Experimental/V4/Casing%201.jpg" height="320">
   <img alt="Printed Small Parts" src="./res/pictures/Experimental/V4/Small%20Parts%201.jpg" height="320">
+  <img alt="All Printed Parts" src="./res/pictures/Experimental/V4/All%20Parts%201.jpg" height="320">
 </p>
