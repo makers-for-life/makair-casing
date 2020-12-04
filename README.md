@@ -7,9 +7,9 @@
 | V1 | Initial design & fits | ❌ | [view model](https://a360.co/2JyIU9P)
 | V2 | Update mensurations | ✅ | [view model](https://a360.co/2RlnfGp)
 | V3 | Experimental casing (canceled) | ❌ | [view model](https://a360.co/2BoKPgj)
-| V4 | MakAir Cube casing w/ a smaller footprint | ⏳ | [view model](https://a360.co/2RHpseW)
+| V4 | MakAir Mini casing w/ a smaller footprint | ⏳ | [view model](https://a360.co/2RHpseW)
 
-## 🧪 MakAir Cube Experimental Design
+## 🧪 MakAir Mini Experimental Design
 
 ![Experimental Casing Header](./res/schemes/Experimental/V4/Casing%20(Header).jpg)
 
