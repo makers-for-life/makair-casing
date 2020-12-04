@@ -60,7 +60,7 @@ _Adding to that: adapted stickers should be added on the Electrical Plugs + Air 
 
 ### Pictures
 
-#### Validation parts (3D printed)
+#### 1️⃣ Validation parts (3D printed)
 
 Pictures of our early FDM & SLA print tests can be found below. Large parts (casing and stages) are printed using FDM, while smaller parts (adapters et al) are printed using SLA (which is more dimensionally accurate than FDM; though more expensive).
 
@@ -72,7 +72,7 @@ _Those parts will help validating the experimental design, before proceeding wit
   <img alt="All Printed Parts" src="./res/pictures/Experimental/V4/Casing%203.jpg" height="460">
 </p>
 
-#### Assembly process
+#### 2️⃣ Assembly process
 
 Pictures of the assembly process of our MakAir Mini can be found below. The parts used there come from our standard, larger MakAir ventilator. To the exception of the AC/DC power converter, which has been swapped to a smaller, 50W unit.
 
@@ -82,7 +82,7 @@ Pictures of the assembly process of our MakAir Mini can be found below. The part
   <img alt="Inserting Stages In The Casing" src="./res/pictures/Experimental/V4/Assembly%203.jpg" height="460">
 </p>
 
-#### Final proof-of-concept
+#### 3️⃣ Final proof-of-concept
 
 The pictures of the assembled MakAir Mini proof-of-concept can be found below. The ventilator final weight went from 25Kg down to 2.5Kg (including batteries, which went from lead-acid to Lithium Ion).
 
