@@ -91,3 +91,13 @@ The pictures of the assembled MakAir Mini proof-of-concept can be found below. T
   <img alt="Top View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%202.jpg" height="320">
   <img alt="Global View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%203.jpg" height="460">
 </p>
+
+#### ℹ️ Size comparisons
+
+Those pictures show a MakAir Mini, compared to our first MakAir Standard design. A GameCube has been added for scale.
+
+_Note that the MakAir Mini that appears on the pictures here is a first-off dirty shot. As the 3D printer that we used to print the casing could not print 20x20x20cm straight, we had to split the casing into 8 parts that were connected with tape. The final validation casing shown on the pictures above has been printed in one solid part, hence why it looks much better._
+
+<p>
+  <img alt="Size Comparison Of MakAir Standard, MakAir Mini And A GameCube" src="./res/pictures/Experimental/V4/Size%201.jpg" height="320">
+</p>
