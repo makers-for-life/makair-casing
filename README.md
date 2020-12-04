@@ -68,6 +68,26 @@ _Those parts will help validating the experimental design, before proceeding wit
 
 <p>
   <img alt="Printed Casing" src="./res/pictures/Experimental/V4/Casing%201.jpg" height="320">
-  <img alt="Printed Small Parts" src="./res/pictures/Experimental/V4/Small%20Parts%201.jpg" height="320">
-  <img alt="All Printed Parts" src="./res/pictures/Experimental/V4/All%20Parts%201.jpg" height="460">
+  <img alt="Printed Small Parts" src="./res/pictures/Experimental/V4/Casing%202.jpg" height="320">
+  <img alt="All Printed Parts" src="./res/pictures/Experimental/V4/Casing%203.jpg" height="460">
+</p>
+
+#### Assembly process
+
+Pictures of the assembly process of our MakAir Mini can be found below. The parts used there come from our standard, larger MakAir ventilator. To the exception of the AC/DC power converter, which has been swapped to a smaller, 50W unit.
+
+<p>
+  <img alt="Assembled Stages" src="./res/pictures/Experimental/V4/Assembly%201.jpg" height="320">
+  <img alt="Assembled Casing" src="./res/pictures/Experimental/V4/Assembly%202.jpg" height="320">
+  <img alt="Inserting Stages In The Casing" src="./res/pictures/Experimental/V4/Assembly%203.jpg" height="460">
+</p>
+
+#### Final proof-of-concept
+
+The pictures of the assembled MakAir Mini proof-of-concept can be found below. The ventilator final weight went from 25Kg down to 2.5Kg (including batteries, which went from lead-acid to Lithium Ion).
+
+<p>
+  <img alt="Lateral View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%201.jpg" height="320">
+  <img alt="Top View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%202.jpg" height="320">
+  <img alt="Global View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%203.jpg" height="460">
 </p>
