@@ -48,14 +48,14 @@ _Adding to that: adapted stickers should be added on the Electrical Plugs + Air 
 ### Renders
 
 <p>
-  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%201).png" height="280">
-  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%202).png" height="280">
-  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%203).png" height="280">
-  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%204).png" height="280">
-  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%205).png" height="280">
-  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%206).png" height="280">
-  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%207).png" height="280">
-  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%208).png" height="280">
+  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%201).png" width="377">
+  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%202).png" width="335">
+  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%203).png" width="346">
+  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%204).png" width="312">
+  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%205).png" width="413">
+  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%206).png" width="381">
+  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%207).png" width="351">
+  <img alt="Experimental Casing Render" src="./res/schemes/Experimental/V4/Casing%20(Render%208).png" width="352">
 </p>
 
 ### Pictures
@@ -67,9 +67,9 @@ Pictures of our early FDM & SLA print tests can be found below. Large parts (cas
 _Those parts will help validating the experimental design, before proceeding with manufacturing molds._
 
 <p>
-  <img alt="Printed Casing" src="./res/pictures/Experimental/V4/Casing%201.jpg" height="320">
-  <img alt="Printed Small Parts" src="./res/pictures/Experimental/V4/Casing%202.jpg" height="320">
-  <img alt="All Printed Parts" src="./res/pictures/Experimental/V4/Casing%203.jpg" height="460">
+  <img alt="Printed Casing" src="./res/pictures/Experimental/V4/Casing%201.jpg" width="347">
+  <img alt="Printed Small Parts" src="./res/pictures/Experimental/V4/Casing%202.jpg" width="426">
+  <img alt="All Printed Parts" src="./res/pictures/Experimental/V4/Casing%203.jpg" width="766">
 </p>
 
 #### 2️⃣ Assembly process
@@ -77,9 +77,9 @@ _Those parts will help validating the experimental design, before proceeding wit
 Pictures of the assembly process of our MakAir Mini can be found below. The parts used there come from our standard, larger MakAir ventilator. To the exception of the AC/DC power converter, which has been swapped to a smaller, 50W unit.
 
 <p>
-  <img alt="Assembled Stages" src="./res/pictures/Experimental/V4/Assembly%201.jpg" height="320">
-  <img alt="Assembled Casing" src="./res/pictures/Experimental/V4/Assembly%202.jpg" height="320">
-  <img alt="Inserting Stages In The Casing" src="./res/pictures/Experimental/V4/Assembly%203.jpg" height="460">
+  <img alt="Assembled Stages" src="./res/pictures/Experimental/V4/Assembly%201.jpg" width="426">
+  <img alt="Assembled Casing" src="./res/pictures/Experimental/V4/Assembly%202.jpg" width="364">
+  <img alt="Inserting Stages In The Casing" src="./res/pictures/Experimental/V4/Assembly%203.jpg" width="766">
 </p>
 
 #### 3️⃣ Final proof-of-concept
@@ -87,9 +87,9 @@ Pictures of the assembly process of our MakAir Mini can be found below. The part
 The pictures of the assembled MakAir Mini proof-of-concept can be found below. The ventilator final weight went from 25Kg down to 2.5Kg (including batteries, which went from lead-acid to Lithium Ion).
 
 <p>
-  <img alt="Lateral View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%201.jpg" height="320">
-  <img alt="Top View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%202.jpg" height="320">
-  <img alt="Global View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%203.jpg" height="460">
+  <img alt="Lateral View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%201.jpg" width="426">
+  <img alt="Top View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%202.jpg" width="280">
+  <img alt="Global View Of The MakAir Mini" src="./res/pictures/Experimental/V4/Final%203.jpg" width="766">
 </p>
 
 #### ℹ️ Size comparisons
@@ -99,5 +99,5 @@ Those pictures show a MakAir Mini, compared to our first MakAir Standard design.
 _Note that the MakAir Mini that appears on the pictures here is a first-off dirty shot. As the 3D printer that we used to print the casing could not print 20x20x20cm straight, we had to split the casing into 8 parts that were connected with tape. The final validation casing shown on the pictures above has been printed in one solid part, hence why it looks much better._
 
 <p>
-  <img alt="Size Comparison Of MakAir Standard, MakAir Mini And A GameCube" src="./res/pictures/Experimental/V4/Size%201.jpg" height="520">
+  <img alt="Size Comparison Of MakAir Standard, MakAir Mini And A GameCube" src="./res/pictures/Experimental/V4/Size%201.jpg" width="760">
 </p>
